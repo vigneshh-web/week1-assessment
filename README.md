@@ -1,4 +1,8 @@
-# Week 1 Python Assessment
+# Week 1 Python and Data Engineering Assessment
+
+## Project Overview
+
+This repository contains Python exercises, file handling, API integration, data analysis, and visualization tasks.
 
 ## Tasks Completed
 
