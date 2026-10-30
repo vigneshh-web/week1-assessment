@@ -1,18 +1,15 @@
 # Week 1 Python and Data Engineering Assessment
 
 ## Project Overview
-
 This repository contains Python exercises covering core programming, file handling, API integration, data analysis and visualization.
 
 ## Tasks Completed
-
-- **Task 1:** Python fundamentals, functions, OOP, inheritance and exception handling.
-- **Task 2:** CSV and JSON handling, REST API requests, environment variables and virtual environments.
-- **Task 3:** NumPy, Pandas, data cleaning, grouping, merging and Matplotlib visualizations.
-- **Task 4:** Git, GitHub, terminal commands, Jupyter Notebook and Pull Requests.
+- Task 1: Python fundamentals, functions, OOP, inheritance and exception handling.
+- Task 2: CSV and JSON handling, REST API requests, environment variables and virtual environments.
+- Task 3: NumPy, Pandas, data cleaning, grouping, merging and Matplotlib visualizations.
+- Task 4: Git, GitHub, terminal commands, Jupyter Notebook and Pull Requests.
 
 ## Technologies Used
-
 - Python
 - NumPy
 - Pandas
@@ -22,7 +19,6 @@ This repository contains Python exercises covering core programming, file handli
 - Git and GitHub
 
 ## Setup Instructions
-
 1. Clone the repository:
    `git clone https://github.com/vigneshh-web/week1-assessment.git`
 2. Navigate into the project:
@@ -35,7 +31,6 @@ This repository contains Python exercises covering core programming, file handli
    `pip install -r Task2/requirements.txt`
 
 ## Key Findings
-
 1. IT has the highest employee headcount with 3 employees.
 2. Sales, HR and Finance have 2, 2 and 1 employees respectively.
 3. Missing salary values were replaced using the median.
@@ -43,7 +38,6 @@ This repository contains Python exercises covering core programming, file handli
 5. IT has the highest average salary among the departments.
 
 ## Repository Structure
-
 - `Task1/` – Python core and OOP exercises.
 - `Task2/` – File handling and API exercises.
 - `Task3/` – Data analysis and visualizations.
